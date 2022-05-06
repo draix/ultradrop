@@ -1,0 +1,18 @@
+    {
+      "chainId": 101,
+      "address": "817qdEXjxTMKZesfMJTq2JE9WGbZyYNjGNhUubHswh6V",
+      "symbol": "DROPS",
+      "name": "UltraDrop Token",
+      "decimals": 3,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/817qdEXjxTMKZesfMJTq2JE9WGbZyYNjGNhUubHswh6V/logo.svg",
+      "tags": [
+        "currency",
+        "utility-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/ultradropio",
+        "website": "https://ultradrop.io",
+        "instagram": "https://www.instagram.com/ultradrop.io"
+      }
+    }
+
